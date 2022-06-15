@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/commission&target_branch=13.0)
-[![Build Status](https://travis-ci.com/OCA/commission.svg?branch=13.0)](https://travis-ci.com/OCA/commission)
+[![Pre-commit Status](https://github.com/OCA/commission/actions/workflows/pre-commit.yml/badge.svg?branch=13.0)](https://github.com/OCA/commission/actions/workflows/pre-commit.yml?query=branch%3A13.0)
+[![Build Status](https://github.com/OCA/commission/actions/workflows/test.yml/badge.svg?branch=13.0)](https://github.com/OCA/commission/actions/workflows/test.yml?query=branch%3A13.0)
 [![codecov](https://codecov.io/gh/OCA/commission/branch/13.0/graph/badge.svg)](https://codecov.io/gh/OCA/commission)
 [![Translation Status](https://translation.odoo-community.org/widgets/commission-13-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/commission-13-0/?utm_source=widget)
 
@@ -21,7 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [hr_commission](hr_commission/) | 13.0.1.0.0 |  | HR commissions
-[sale_commission](sale_commission/) | 13.0.1.7.1 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Sales commissions
+[sale_commission](sale_commission/) | 13.0.1.8.0 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Sales commissions
 [sale_commission_delegated_partner](sale_commission_delegated_partner/) | 13.0.1.0.0 |  | Allow to delegate the invoices of agent to a delegate partner
 [sale_commission_formula](sale_commission_formula/) | 13.0.1.1.1 |  | Sale commissions computed by formulas
 [sale_commission_pricelist](sale_commission_pricelist/) | 13.0.1.1.0 |  | Sales commissions by pricelist
